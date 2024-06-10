@@ -1,2 +1,2 @@
 # IOT-monitor
-Used Lolin32 sensing temperature, humidity... and upload the data to the cloud in order to monitor the data remotely.
+Using Lolin32 to sense temperature and humidity, then uploading the data to the cloud. Users can monitor the data through a website.
